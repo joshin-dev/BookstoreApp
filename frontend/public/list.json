@@ -1,0 +1,91 @@
+[
+    {
+       "id": 1,
+        "name": "Kids Story Book",
+        "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+        "price": 20,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+    },
+    {
+        "id": 2,
+         "name": "Comedy Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 40,
+         "category": "Free",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 3,
+         "name": "Horror Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 22,
+         "category": "Horror",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 4,
+         "name": "Thriller Novel",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 50,
+         "category": "Thriller",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 5,
+         "name": "Detective Novel ",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 20,
+         "category": "Detective",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 6,
+         "name": "Comic Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 10,
+         "category": "Free",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 7,
+         "name": "Romantic Novel",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 30,
+         "category":"Love",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 8,
+         "name": "Story Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 0,
+         "category": "Free",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 9,
+         "name": "Story Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 0,
+         "category": "Free",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 10,
+         "name": "Story Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 0,
+         "category": "Free",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     },
+     {
+        "id": 11,
+         "name": "Story Book",
+         "title": "Lorem ipsum dolor sit amet. A blanditiis omnis sed.",
+         "price": 0,
+         "category": "Free",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725965101~exp=1725968701~hmac=0b11caeeb8477abd60de128d4928cc0ea5957fe2efbc7a06ff5d0735535c5f2c&w=740"
+     }
+
+]
