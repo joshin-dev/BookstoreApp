@@ -15,7 +15,7 @@ function Banner() {
                             Lorem ipsum dolor sit amet. A blanditiis omnis sed minus maxime aut omnis alias rem magni omnis et omnis aspernatur a sequi odit. Eos dolor dignissimos id voluptas maiores a voluptas recusandae non quia tenetur et enim exercitationem?
                         </p>
 
-                        <label className="input input-bordered flex items-center gap-2">
+                        <label className="input input-bordered flex items-center gap-2 dark:bg-slate-900 border-[2px] dark:border-slate-500">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 16 16"
